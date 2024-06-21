@@ -7,7 +7,7 @@ import matplotlib as mpl
 import datetime
 import pandas
 
-pathTabela = 'C:/Users/Max Ziller/OneDrive/Documents/TCC Glória/indicadores_trajetoria_educacao_superior_2010_2019.csv'
+pathTabela = ''
 
 registros = []
 
